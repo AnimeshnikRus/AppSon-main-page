@@ -1,18 +1,104 @@
 body{
-	min-width: 320px;
-	font-size: 14px;
 	font-family: 'Quicksand', sans-serif;
 }
 
-img{
-	max-width: 100%;
-	height: auto;
+.logo{
+	background: #477AFB;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 12px;
 }
 
-a{
-	color: #0f7bff;
+.nav-link{
+	font-weight: medium;
+	font-size: 16px;
 }
 
-a:hover{
-	color: d8d8d8;
+h1{
+	font-weight: bold;
+	font-size: 36px;
+}
+
+h2{
+	font-weight: medium;
+	font-size: 32px;
+}
+
+h3{
+	font-weight: medium;
+	font-size: 24px;
+}
+
+h4{
+	font-weight: medium;
+	font-size: 18px;
+}
+
+.news-author{
+	font-weight: 400;
+	font-size: 14px;
+}
+
+p{
+	font-weight: 400;
+	font-size: 16px;
+}
+
+button{
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.btn-read-more{
+	font-weight: medium;
+	font-size: 16px;
+}
+
+.text-price{
+	font-weight: medium;
+	font-size: 32px;
+}
+
+.btn-footer{
+	color: white;
+}
+
+header{
+	
+}
+
+.main-app-info{
+
+}
+
+.app-features-block{
+	background-color: #f5fcfd;
+}
+
+.app-features-block-2{
+
+}
+
+.about-app-work-block{
+	background-color: #f5fcfd;
+}
+
+.select-plan-block{
+
+}
+
+.twitter-info-block{
+	background-color: #f5fcfd;
+}
+
+.news-block{
+
+}
+
+.try-30-block{
+	background-color: #f5fcfd;
+}
+
+footer{
+	background-color : #107bff;
+	color: white;
 }
